@@ -1,24 +1,79 @@
-<h1 align="center">Hi 👋, I'm Akanksha Dubey</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankshadubey14&label=Profile%20views&color=0e75b6&style=flat" alt="akankshadubey14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akankshadubey14" alt="akankshadubey14" /></a> </p>
+# 👋 Hello! I'm Anurag Belel
 
-- 👨‍💻 All of my projects are available at [https://github.com/akankshadubey14](https://github.com/akankshadubey14)
+🎓 **Data Science Graduate | Machine Learning Enthusiast | Problem Solver**
 
-- 📫 How to reach me **akankshad086@gmail.com**
+Welcome to my GitHub repository! I’m passionate about using data to solve complex problems and uncover hidden patterns. My background in Data Science and AI allows me to approach challenges with a structured, analytical mindset. Below, you'll find a snapshot of my technical skills and some of the exciting projects I've been working on. Let's connect and collaborate! 🚀
 
-- 📄 Know about my experiences [file:///C:/Users/anura/OneDrive/Desktop/old/Downloads/Anurag%20Belel%20Resume.pdf](file:///C:/Users/anura/OneDrive/Desktop/old/Downloads/Anurag%20Belel%20Resume.pdf)
+## 🛠️ Technical Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/akanksha dubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akanksha dubey" height="30" width="40" /></a>
-</p>
+### 🧠 **Data Science & Machine Learning**
+- **Programming:** Python 🐍, R
+- **Data Manipulation:** Pandas, NumPy
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras
+- **Deep Learning:** Artificial Neural Networks, CNNs, RNNs
+- **NLP:** Text Preprocessing, Feature Engineering, Sentiment Analysis
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 📊 **Data Analysis & Visualization**
+- **Database Management:** SQL
+- **Data Visualization:** Matplotlib, Seaborn, Tableau 📊, Power BI
+- **Data Cleaning & Wrangling:** Extensive experience with complex datasets
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akankshadubey14&show_icons=true&locale=en&layout=compact" alt="akankshadubey14" /></p>
+### 🌐 **Web Development**
+- **Frameworks:** Django, Flask
+- **Frontend:** HTML, CSS
+- **Deployment:** Streamlit for interactive web apps
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshadubey14&show_icons=true&locale=en" alt="akankshadubey14" /></p>
+### ⚙️ **Tools & Platforms**
+- **Development Environments:** Jupyter Notebook, VS Code
+- **Data Management:** Excel (Advanced), Google Sheets
+- **Version Control:** Git & GitHub
+
+## 🎓 Education
+- **Master Diploma in Data Science & Artificial Intelligence**  
+  *Boston Institute of Analytics, Mumbai, India*  
+  *Modules:* Python, SQL, Machine Learning, Deep Learning, NLP, Power BI, Tableau
+- **Bachelor of Science in Data Science**  
+  *KES Shroff College, Mumbai, India*  
+  *Modules:* Python, SQL, Machine Learning, Deep Learning, Time Series Analysis
+
+## 📜 Certifications
+- **IBM:** IBM Data Science Specialization
+- **Cisco Networking Academy:** Data Analytics Essentials
+- **Cisco Networking Academy:** Introduction to Data Science
+
+## 🌟 Achievements & Extra-Curricular Activities
+- **Kaggle Competitions:** Participated in flood prediction, credit risk analysis, and house price prediction challenges.
+- **Community Engagement:** Led beach cleanup activities and coordinated team-building events.
+- **National Level Quiz:** Participated in a quiz on "Statistical Tools in Research and Its Application."
+
+## 📂 Featured Projects
+
+### 🏏 [IPL Cricket Match Win Predictor](https://github.com/gitan12/IPL_Cricket_Match_Win_Predictor)
+- **Tech Stack:** Python, Machine Learning (Logistic Regression, Random Forest), Streamlit
+- **Overview:** Developed a model to predict IPL match outcomes with improved accuracy using historical data.
+- **Achievements:** Increased prediction accuracy by 15%, with a 10% boost in model reliability.
+
+### 💳 [Financial Fraud Detection](https://github.com/gitan12/Financial_Fraud_Detection)
+- **Tech Stack:** Python, Machine Learning (Logistic Regression, Decision Tree, Random Forest)
+- **Overview:** Created a model to detect fraudulent activities, achieving high accuracy and reducing false positives.
+- **Achievements:** Achieved 92% accuracy, with a 25% reduction in false positives.
+
+### 🛒 [Walmart Retail Insights Dashboard](https://github.com/gitan12/Walmart_Retail_Insight_Dashboard)
+- **Tech Stack:** Power BI
+- **Overview:** An interactive dashboard that visualizes Walmart sales trends across multiple dimensions.
+- **Achievements:** Improved visual clarity by 40% with advanced heatmaps and custom tooltips.
+
+### 📈 [Stock Price Prediction](https://github.com/gitan12/Stock_Price_Prediction)
+- **Tech Stack:** Python, Deep Learning (LSTM), Streamlit
+- **Overview:** Developed an LSTM-based model for predicting stock prices with high precision.
+- **Achievements:** Achieved a Mean Absolute Error of 2.3% and ensured real-time predictions with Yahoo Finance API integration.
+
+## 🔗 Let's Connect!
+- **LinkedIn:** [Anurag Belel](http://www.linkedin.com/in/anurag-belel-44b0352a0)  
+- **Kaggle:** [Anurag Belel](https://www.kaggle.com/anuragbelel)  
+- **GitHub:** [gitan12](https://github.com/gitan12)
+
+---
+
